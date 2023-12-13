@@ -1,0 +1,14 @@
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\bin\Debug\net6.0\Ejemplo Contrrol de Versiones.exe
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\bin\Debug\net6.0\Ejemplo Contrrol de Versiones.deps.json
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\bin\Debug\net6.0\Ejemplo Contrrol de Versiones.runtimeconfig.json
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\bin\Debug\net6.0\Ejemplo Contrrol de Versiones.dll
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\bin\Debug\net6.0\Ejemplo Contrrol de Versiones.pdb
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.AssemblyInfoInputs.cache
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.AssemblyInfo.cs
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.csproj.CoreCompileInputs.cache
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.dll
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\refint\Ejemplo Contrrol de Versiones.dll
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.pdb
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.genruntimeconfig.cache
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\ref\Ejemplo Contrrol de Versiones.dll
