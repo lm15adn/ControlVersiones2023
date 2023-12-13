@@ -12,3 +12,7 @@ C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de V
 C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.pdb
 C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.genruntimeconfig.cache
 C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\ref\Ejemplo Contrrol de Versiones.dll
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\bin\Debug\net6.0\Owin.dll
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.csproj.AssemblyReference.cache
+C:\Users\LArdon\source\repos\Ejemplo Contrrol de Versiones\Ejemplo Contrrol de Versiones\obj\Debug\net6.0\Ejemplo Contrrol de Versiones.csproj.CopyComplete
