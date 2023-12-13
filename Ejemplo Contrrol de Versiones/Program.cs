@@ -18,10 +18,10 @@ switch (Opcion)
 
     case '3':
         Environment.Exit(0);
-        
+        break;
         
     default:
-        Console.WriteLine("Opción inválida");
+        Console.WriteLine("Opción inválida, ingrese una correcta");
         break;
 
 }
