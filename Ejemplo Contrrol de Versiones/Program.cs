@@ -21,7 +21,7 @@ switch (Opcion)
         break;
         
     default:
-        Console.WriteLine("Opción inválida, ingrese una correcta");
+        Console.WriteLine("Opción inválida, ingrese una correcta POR FAVOR");
         break;
 
 }
