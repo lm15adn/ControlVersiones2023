@@ -10,6 +10,16 @@ switch (Opcion)
 {
     case '1':
         Console.WriteLine("---Agregar Empleado---");
+        Console.WriteLine("Ingrese nombre");
+        string Nombre = Console.ReadLine();
+        Console.WriteLine("Ingrese género (M/F)");
+        string Genero = Console.ReadLine();
+        Console.WriteLine("Tipo empleado");
+        Console.WriteLine("\t 1. Vendedor");
+        Console.WriteLine("\t 2. Gerente");
+        string TipoEmpleado = Console.ReadLine();
+        Console.WriteLine("Ingrese salario");
+        double Salario = double.Parse(Console.ReadLine());
         break;
 
     case '2':
@@ -21,7 +31,7 @@ switch (Opcion)
         break;
         
     default:
-        Console.WriteLine("Opción inválida, ingrese una correcta POR FAVOR");
+        Console.WriteLine("Opción inválida");
         break;
 
 }
