@@ -20,8 +20,14 @@ switch (Opcion)
         string TipoEmpleado = Console.ReadLine();
         Console.WriteLine("Ingrese salario");
         double Salario = double.Parse(Console.ReadLine());
-        break;
 
+        Console.WriteLine("El nombre del empleado es: " + Nombre);
+        Console.WriteLine("El género es: " + Genero);
+        Console.WriteLine("El tipo de empleado es: " + TipoEmpleado);
+        Console.WriteLine("El salario del empleado es: " + Salario.ToString());
+        
+        break;
+        
     case '2':
         Console.WriteLine("---Listar Empleado---");
         break;
