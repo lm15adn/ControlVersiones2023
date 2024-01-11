@@ -13,7 +13,9 @@ switch (Opcion)
         Console.WriteLine("Ingrese nombre");
         string Nombre = Console.ReadLine();
         Console.WriteLine("Ingrese género (M/F)");
-        string Genero = Console.ReadLine();
+        //Cambio en rama Main
+        char Genero = Char.Parse(Console.ReadLine());
+
         Console.WriteLine("Tipo empleado");
         Console.WriteLine("\t 1. Vendedor");
         Console.WriteLine("\t 2. Gerente");
